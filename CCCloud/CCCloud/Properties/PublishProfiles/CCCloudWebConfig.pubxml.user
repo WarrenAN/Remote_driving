@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+您 Web 项目的发布/打包进程将使用此文件。您可以通过编辑此 MSBuild 文件
+来自定义该进程的行为。若要了解与此相关的详细信息，请访问 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\WebSite</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/BLL.dll">
+      <publishTime>03/08/2019 09:58:51</publishTime>
+    </File>
+    <File Include="bin/CCCloud.dll">
+      <publishTime>03/18/2019 17:44:50</publishTime>
+    </File>
+    <File Include="bin/DAL.dll">
+      <publishTime>01/16/2019 19:52:23</publishTime>
+    </File>
+    <File Include="bin/Json.dll">
+      <publishTime>03/08/2019 10:32:58</publishTime>
+    </File>
+    <File Include="CSS/app.css">
+      <publishTime>04/11/2019 09:28:14</publishTime>
+    </File>
+    <File Include="CSS/bootstrap.min.css">
+      <publishTime>01/08/2019 13:13:47</publishTime>
+    </File>
+    <File Include="CSS/component.css">
+      <publishTime>01/07/2019 17:55:20</publishTime>
+    </File>
+    <File Include="CSS/homepage.css">
+      <publishTime>12/14/2018 17:23:18</publishTime>
+    </File>
+    <File Include="CSS/login1.css">
+      <publishTime>03/08/2019 18:53:12</publishTime>
+    </File>
+    <File Include="CSS/Loginstyles.css">
+      <publishTime>11/30/2018 11:38:39</publishTime>
+    </File>
+    <File Include="CSS/min.css">
+      <publishTime>03/08/2019 16:33:05</publishTime>
+    </File>
+    <File Include="CSS/normalize.css">
+      <publishTime>11/22/2018 14:34:18</publishTime>
+    </File>
+    <File Include="CSS/registerUser.css">
+      <publishTime>01/23/2019 14:44:30</publishTime>
+    </File>
+    <File Include="CSS/video-js.css">
+      <publishTime>03/24/2019 19:39:10</publishTime>
+    </File>
+    <File Include="datadisplay.aspx">
+      <publishTime>04/13/2019 12:29:25</publishTime>
+    </File>
+    <File Include="Display.aspx">
+      <publishTime>01/08/2019 10:02:13</publishTime>
+    </File>
+    <File Include="homepage.aspx">
+      <publishTime>03/07/2019 18:30:55</publishTime>
+    </File>
+    <File Include="Img/bg.jpg">
+      <publishTime>11/22/2018 14:21:27</publishTime>
+    </File>
+    <File Include="Img/bg06.png">
+      <publishTime>01/08/2019 13:44:27</publishTime>
+    </File>
+    <File Include="Img/car.png">
+      <publishTime>11/23/2018 14:01:44</publishTime>
+    </File>
+    <File Include="Img/code.png">
+      <publishTime>03/08/2019 16:08:46</publishTime>
+    </File>
+    <File Include="Img/code_img.png">
+      <publishTime>03/08/2019 16:08:46</publishTime>
+    </File>
+    <File Include="Img/header-left.png">
+      <publishTime>01/08/2019 13:44:27</publishTime>
+    </File>
+    <File Include="Img/header-right.png">
+      <publishTime>01/08/2019 13:44:27</publishTime>
+    </File>
+    <File Include="Img/loading.gif">
+      <publishTime>01/08/2019 13:44:27</publishTime>
+    </File>
+    <File Include="Img/panel.png">
+      <publishTime>01/08/2019 13:44:27</publishTime>
+    </File>
+    <File Include="Img/password.png">
+      <publishTime>03/08/2019 16:08:47</publishTime>
+    </File>
+    <File Include="Img/thumb.jpg">
+      <publishTime>01/08/2019 13:44:27</publishTime>
+    </File>
+    <File Include="Img/track.ico">
+      <publishTime>03/08/2019 13:30:19</publishTime>
+    </File>
+    <File Include="Img/username.png">
+      <publishTime>03/08/2019 16:08:47</publishTime>
+    </File>
+    <File Include="JavaScript/baiduMap.js">
+      <publishTime>11/23/2018 14:02:55</publishTime>
+    </File>
+    <File Include="JavaScript/chinaMap.js">
+      <publishTime>11/22/2018 15:00:59</publishTime>
+    </File>
+    <File Include="JavaScript/dataset.js">
+      <publishTime>11/22/2018 14:47:52</publishTime>
+    </File>
+    <File Include="JavaScript/EasePack.min.js">
+      <publishTime>11/22/2018 14:27:03</publishTime>
+    </File>
+    <File Include="JavaScript/echarts-3.8.5.min.js">
+      <publishTime>01/08/2019 13:32:43</publishTime>
+    </File>
+    <File Include="JavaScript/echarts-liquidfill.min.js">
+      <publishTime>01/08/2019 13:32:43</publishTime>
+    </File>
+    <File Include="JavaScript/echarts-map-china.js">
+      <publishTime>01/08/2019 13:32:43</publishTime>
+    </File>
+    <File Include="JavaScript/echarts-wordcloud.min.js">
+      <publishTime>01/08/2019 13:32:43</publishTime>
+    </File>
+    <File Include="JavaScript/echarts.min.js">
+      <publishTime>11/22/2018 14:47:52</publishTime>
+    </File>
+    <File Include="JavaScript/instrumentPanel.js">
+      <publishTime>11/22/2018 14:47:52</publishTime>
+    </File>
+    <File Include="JavaScript/jquery-2.1.1.min.js">
+      <publishTime>11/22/2018 14:41:49</publishTime>
+    </File>
+    <File Include="JavaScript/jquery-3.3.1.min.js">
+      <publishTime>01/08/2019 13:32:43</publishTime>
+    </File>
+    <File Include="JavaScript/loginMy.js">
+      <publishTime>11/22/2018 14:41:49</publishTime>
+    </File>
+    <File Include="JavaScript/Particleground.js">
+      <publishTime>03/08/2019 18:11:45</publishTime>
+    </File>
+    <File Include="JavaScript/point.js">
+      <publishTime>11/22/2018 14:27:03</publishTime>
+    </File>
+    <File Include="JavaScript/TweenLite.min.js">
+      <publishTime>11/22/2018 14:27:03</publishTime>
+    </File>
+    <File Include="JavaScript/verificationNumbers.js">
+      <publishTime>03/08/2019 18:11:45</publishTime>
+    </File>
+    <File Include="JavaScript/video.js">
+      <publishTime>03/18/2019 13:52:12</publishTime>
+    </File>
+    <File Include="JavaScript/videojs-flash.min.js">
+      <publishTime>03/18/2019 13:52:12</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>03/13/2019 16:22:15</publishTime>
+    </File>
+    <File Include="login1.aspx">
+      <publishTime>03/08/2019 18:39:06</publishTime>
+    </File>
+    <File Include="Login11.aspx">
+      <publishTime>03/08/2019 18:43:27</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>03/08/2019 10:32:58</publishTime>
+    </File>
+    <File Include="registerUser.aspx">
+      <publishTime>01/23/2019 14:47:10</publishTime>
+    </File>
+    <File Include="VideoJS.swf">
+      <publishTime>03/18/2019 13:54:43</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>03/18/2019 17:50:05</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

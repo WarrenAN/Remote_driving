@@ -1,0 +1,6 @@
+C:\毕设项目-基于4G网络的车辆CAN数据监控与预警系统云平台设计\MonitoringAndWebsocket\MonitoringAndWebsocket\bin\Release\MonitoringAndWebsocket.exe.config
+C:\毕设项目-基于4G网络的车辆CAN数据监控与预警系统云平台设计\MonitoringAndWebsocket\MonitoringAndWebsocket\bin\Release\MonitoringAndWebsocket.exe
+C:\毕设项目-基于4G网络的车辆CAN数据监控与预警系统云平台设计\MonitoringAndWebsocket\MonitoringAndWebsocket\bin\Release\MonitoringAndWebsocket.pdb
+C:\毕设项目-基于4G网络的车辆CAN数据监控与预警系统云平台设计\MonitoringAndWebsocket\MonitoringAndWebsocket\obj\Release\MonitoringAndWebsocket.csprojResolveAssemblyReference.cache
+C:\毕设项目-基于4G网络的车辆CAN数据监控与预警系统云平台设计\MonitoringAndWebsocket\MonitoringAndWebsocket\obj\Release\MonitoringAndWebsocket.exe
+C:\毕设项目-基于4G网络的车辆CAN数据监控与预警系统云平台设计\MonitoringAndWebsocket\MonitoringAndWebsocket\obj\Release\MonitoringAndWebsocket.pdb
